@@ -1,12 +1,12 @@
 # Alsouq - السوق
-subtitle or tag
-real image or mockup
+subtitle or tag  
+real image or mockup  
 
-Brief contains: time duration or hours - tools used - ..
+Brief contains: time duration or hours - tools used - ..  
 
 ## About
-what is the need or where problem starts
-User stories
+what is the need or where problem starts  
+User stories  
 
 ## How did the project comes to life? (design)
 - Meet
@@ -48,17 +48,17 @@ And so on... until at least satisfying from the work.. no work is 100% perfect, 
 
 ## 3rd patry dependencies used:
 CocoaPods:
-CodeableFirebase: https://github.com/alickbass/CodableFirebase
-IQKeyboardManager: https://github.com/hackiftekhar/IQKeyboardManager
-Sdwebinage: https://github.com/SDWebImage/SDWebImage
-OTPFIELDVIEW: https://github.com/Root-vb/OTPFieldView
-HCSStarRatingView : https://github.com/hsousa/HCSStarRatingView
+CodeableFirebase: https://github.com/alickbass/CodableFirebase  
+IQKeyboardManager: https://github.com/hackiftekhar/IQKeyboardManager  
+Sdwebinage: https://github.com/SDWebImage/SDWebImage  
+OTPFIELDVIEW: https://github.com/Root-vb/OTPFieldView  
+HCSStarRatingView : https://github.com/hsousa/HCSStarRatingView  
 
 Swift Packages:
-CountryPicker: https://github.com/suryakantsharma/countrypicker
-Firebase: https://github.com/firebase/firebase-ios-sdk
-LocationPicker: https://github.com/zhuorantan/LocationPicker
-MessageKit: https://github.com/MessageKit/MessageKit
+CountryPicker: https://github.com/suryakantsharma/countrypicker  
+Firebase: https://github.com/firebase/firebase-ios-sdk  
+LocationPicker: https://github.com/zhuorantan/LocationPicker  
+MessageKit: https://github.com/MessageKit/MessageKit  
 
 
 ## Let's have a closer look at (Alsouq) (App Demo)
