@@ -24,15 +24,21 @@ Notion + plan of the project how I arrange days and weeks\
 Research includes: Survey to make sure there is a need.\
 Ideation includes: Idea + Sketching + User stories\
 Resuming research includes: Survey, Interviews, App categories (surveys + card sorting), Competitive analysis...\
+[AppCategories copy.docx](https://github.com/LolaHadi/Alsouq/files/7931911/AppCategories.copy.docx)
+[CompetitiveAnalysis.docx](https://github.com/LolaHadi/Alsouq/files/7931912/CompetitiveAnalysis.docx)
+https://docs.google.com/forms/d/1NxyENgfJtrtazqdNAN2niPl9mJ-t7fevkjqwiJn5IyY/edit (Responses)
 
 After research I started design\
 Initial version1 wireframe
 
-Data architect (Class UML Diagram, Json tree, User flow diagram)\
+architect (Class UML Diagram, Json tree, User flow diagram)\
+Data ![Json tree](https://user-images.githubusercontent.com/92252764/150942006-228e9231-f054-47d8-9491-a2a9d74a4851.jpeg)
+![UML Class diagram](https://user-images.githubusercontent.com/92252764/150942015-7d733ebe-1a34-4d76-858d-3a65e2a8fd2f.jpeg)
 
 Completed version2 wireframe\
 
 UI Design (UI Screens, prototype)\
+https://www.figma.com/file/OkJ03BfXCX8sZOqNdu4DzF/Finaaaaaaaaaal?node-id=0%3A1
 App icon + app name
 
 ### Develop
